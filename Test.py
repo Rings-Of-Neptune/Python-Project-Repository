@@ -5,3 +5,4 @@ def sample_function(one, two):
     pass
 
 # This is a single-line comment
+# This creates a different document.
